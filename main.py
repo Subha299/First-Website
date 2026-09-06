@@ -1,5 +1,5 @@
 import os
 
+# We are using os module in python
 print(os.listdir())
-print(os.get_blocking())
-print(os.chdir("/"))
+print(os.getcwd())
